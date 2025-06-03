@@ -1,0 +1,344 @@
+%!Adobe-FontList 1.24
+%Locale:0x80a
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:1797-MEDIUM
+FamilyName:1797
+StyleName:MEDIUM
+FullName:1797 MEDIUM
+MenuName:1797 MEDIUM
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\4_CONJUNTO\CANALLA\BRANDBOOK\MANUAL_CANALLA\Document fonts\1797-MEDIUM.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:24980
+FileModTime:1721943072
+WeightClass:500
+WidthClass:4
+AngleClass:0
+NameArray:0,Mac,4,1797 MEDIUM
+NameArray:0,Win,1,1797 MEDIUM
+NameArray:0,Win,16,1797
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AlbuquerqueTRIAL-Regular
+FamilyName:Albuquerque TRIAL
+StyleName:Regular
+FullName:Albuquerque TRIAL Regular
+MenuName:Albuquerque TRIAL
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\4_CONJUNTO\CANALLA\BRANDBOOK\MANUAL_CANALLA\Document fonts\AlbuquerqueTRIAL-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:7344
+FileModTime:1658134660
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Albuquerque TRIAL Regular
+NameArray:0,Win,1,Albuquerque TRIAL
+NameArray:0,Win,16,Albuquerque TRIAL
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BasisGrotesqueArabicPro-Bold
+FamilyName:Basis Grotesque Arabic Pro
+StyleName:Bold
+FullName:BasisGrotesqueArabicPro-Bold
+MenuName:Basis Grotesque Arabic Pro
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:E:\4_CONJUNTO\CANALLA\BRANDBOOK\MANUAL_CANALLA\Document fonts\BasisGrotesqueArabicPro-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:195020
+FileModTime:1590324956
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,BasisGrotesqueArabicPro-Bold
+NameArray:0,Win,1,Basis Grotesque Arabic Pro
+NameArray:0,Win,16,Basis Grotesque Arabic Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BasisGrotesqueArabicPro-Medium
+FamilyName:Basis Grotesque Arabic Pro
+StyleName:Medium
+FullName:BasisGrotesqueArabicPro-Medium
+MenuName:Basis Grotesque Arabic Pro Md
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\4_CONJUNTO\CANALLA\BRANDBOOK\MANUAL_CANALLA\Document fonts\BasisGrotesqueArabicPro-Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:197632
+FileModTime:1590324960
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,BasisGrotesqueArabicPro-Medium
+NameArray:0,Win,1,Basis Grotesque Arabic Pro Md
+NameArray:0,Win,16,Basis Grotesque Arabic Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BasisGrotesqueArabicPro-Regular
+FamilyName:Basis Grotesque Arabic Pro
+StyleName:Regular
+FullName:BasisGrotesqueArabicPro-Regular
+MenuName:Basis Grotesque Arabic Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\4_CONJUNTO\CANALLA\BRANDBOOK\MANUAL_CANALLA\Document fonts\BasisGrotesqueArabicPro-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:198348
+FileModTime:1590324958
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,BasisGrotesqueArabicPro-Regular
+NameArray:0,Win,1,Basis Grotesque Arabic Pro
+NameArray:0,Win,16,Basis Grotesque Arabic Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:BricolageGrotesque-Light
+FamilyName:Bricolage Grotesque
+StyleName:Light
+FullName:Bricolage Grotesque Light
+MenuName:Bricolage Grotesque Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\4_CONJUNTO\CANALLA\BRANDBOOK\MANUAL_CANALLA\Document fonts\BricolageGrotesque-Light.otf
+DataFormat:sfntData
+UsesStandardEncoding:no
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:77752
+FileModTime:1693853302
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Bricolage Grotesque Light
+NameArray:0,Win,16,Bricolage Grotesque
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FoundersGrotesk-Regular
+FamilyName:Founders Grotesk
+StyleName:Regular
+FullName:Founders Grotesk
+MenuName:Founders Grotesk Regular
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\4_CONJUNTO\CANALLA\BRANDBOOK\MANUAL_CANALLA\Document fonts\FoundersGrotesk-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:54844
+FileModTime:1702923402
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Founders Grotesk Regular
+NameArray:0,Mac,4,Founders Grotesk
+NameArray:0,Win,1,Founders Grotesk Regular
+NameArray:0,Win,16,Founders Grotesk
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FoundersGrotesk-Semibold
+FamilyName:Founders Grotesk
+StyleName:Semibold
+FullName:Founders Grotesk Semibold
+MenuName:Founders Grotesk Semibold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\4_CONJUNTO\CANALLA\BRANDBOOK\MANUAL_CANALLA\Document fonts\FoundersGrotesk-Semibold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:56580
+FileModTime:1702923402
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Founders Grotesk Semibold
+NameArray:0,Win,1,Founders Grotesk Semibold
+NameArray:0,Win,16,Founders Grotesk
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:GeneralSans-Regular
+FamilyName:General Sans
+StyleName:Regular
+FullName:General Sans
+MenuName:General Sans
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\4_CONJUNTO\CANALLA\BRANDBOOK\MANUAL_CANALLA\Document fonts\GeneralSans-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:no
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:45948
+FileModTime:1658892286
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,General Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:GeneralSans-Semibold
+FamilyName:General Sans
+StyleName:Semibold
+FullName:General Sans Semibold
+MenuName:General Sans Semibold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\4_CONJUNTO\CANALLA\BRANDBOOK\MANUAL_CANALLA\Document fonts\GeneralSans-Semibold.otf
+DataFormat:sfntData
+UsesStandardEncoding:no
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:46640
+FileModTime:1658899486
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,General Sans Semibold
+NameArray:0,Win,16,General Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\4_CONJUNTO\CANALLA\BRANDBOOK\MANUAL_CANALLA\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:1729469264
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:PhlegmTRIAL-Headlines
+FamilyName:PhlegmTRIAL
+StyleName:Headlines
+FullName:PhlegmTRIAL Headlines
+MenuName:PhlegmTRIAL Headlines
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\4_CONJUNTO\CANALLA\BRANDBOOK\MANUAL_CANALLA\Document fonts\PhlegmTRIAL-Headlines.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:7152
+FileModTime:1666690112
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,PhlegmTRIAL Headlines
+NameArray:0,Win,1,PhlegmTRIAL Headlines
+NameArray:0,Win,16,PhlegmTRIAL
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SONGERCondensed
+FamilyName:SONGER Condensed
+StyleName:Regular
+FullName:SONGER Condensed
+MenuName:SONGER Condensed
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\4_CONJUNTO\CANALLA\BRANDBOOK\MANUAL_CANALLA\Document fonts\SONGER™_C_Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:120276
+FileModTime:1540605000
+WeightClass:400
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,4,SONGER Condensed
+NameArray:0,Win,1,SONGER Condensed
+%EndFont
+
