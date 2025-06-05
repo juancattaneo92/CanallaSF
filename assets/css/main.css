@@ -2270,8 +2270,8 @@ input, select, textarea {
 
 /* Form */
 
-	form {
-		margin: 0 0 2rem 0;
+	form > .post-form{
+		margin: 0 0 2rem 0.5em;
 	}
 
 		form > :last-child {
@@ -3831,7 +3831,7 @@ input, select, textarea {
 	}
 
 		#main > * {
-			padding: 0rem 0rem 0rem 2rem;
+			padding: 0rem 0rem 0rem 0rem;
 			/* border-top: solid 2px #eeeeee; */
 			margin: 0;
 			font-size: 3em;
@@ -5195,4 +5195,27 @@ input, select, textarea {
     width: 100%;
     margin-bottom: 1rem;
   }
+}
+
+.menu {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 1.5rem 0;
+}
+
+.menu img {
+  max-width: 98vw;
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  border-radius: 8px;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.04);
+  padding: 0.5rem;
+  background: #fff;
+}
+
+.post-form {
+	margin: 0 0 0 0.5em;
 }
