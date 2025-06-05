@@ -5178,3 +5178,21 @@ input, select, textarea {
 	}
 
 }
+
+.canalla-board1,
+.canalla-board2 {
+  display: none;
+}
+
+/* On small screens, hide the single image and show the two stacked images */
+@media (max-width: 782px) {
+  .canalla-board-single {
+    display: none !important;
+  }
+  .canalla-board1,
+  .canalla-board2 {
+    display: block !important;
+    width: 100%;
+    margin-bottom: 1rem;
+  }
+}
