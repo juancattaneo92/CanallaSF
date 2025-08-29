@@ -2270,7 +2270,7 @@ input, select, textarea {
 /* Form */
 
 	form > .post-form{
-		margin: 0 0 2rem 0.5em;
+		margin: 0 0 2rem 0em;
 	}
 
 		form > :last-child {
@@ -2877,8 +2877,8 @@ input, select, textarea {
 
 	ul {
 		list-style: disc;
-		margin: 0 0 2rem 0;
-		padding-left: 1rem;
+		margin: 0 0 1rem 0;
+		/* padding-left: 1rem; */
 	}
 
 		ul li {
@@ -3874,7 +3874,7 @@ input, select, textarea {
 			@media screen and (max-width: 736px) {
 
 				#main > .post {
-					padding: 2rem 2rem 2rem 2rem ;
+					padding: 0rem 2rem 2rem 2rem ;
 				}
 
 					#main > .post header.major > .date {
