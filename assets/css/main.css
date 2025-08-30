@@ -5130,7 +5130,7 @@ a {
 }
 
 
-@media (max-width: 780px) {
+@media (max-width: 700px) {
 	.canalla-description{
 		padding: 1rem 2rem 0 2rem;
 		line-height: 1.05em;
@@ -5150,7 +5150,8 @@ a {
 
 	  .canalla-video {
 		padding: 0;
-	}
+		height: 75vh;
+	  }
 
 	.button{
 		width: 90% !important;
